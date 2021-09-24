@@ -3,3 +3,4 @@ asyncio
 dismusic
 wavelink
 reddit
+praw
