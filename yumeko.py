@@ -11,7 +11,6 @@ import discord
 import json
 import random
 import os
-from prsaw import RandomStuff
 from discord.ext import commands
 from dotenv import load_dotenv
 from os import getenv
