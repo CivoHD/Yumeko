@@ -17,7 +17,6 @@ bot = commands.Bot(command_prefix='y!')
 bot.remove_command('help')
 
 
-bot.add_cog(Reddit(bot))
 bot.add_cog(yumekoGifs(bot))
 bot.add_cog(yumekoPfp(bot))
 bot.add_cog(helpCommand(bot))
