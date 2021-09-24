@@ -2,6 +2,4 @@ discord.py
 asyncio
 dismusic
 wavelink
-reddit
-praw
-prsaw
+
