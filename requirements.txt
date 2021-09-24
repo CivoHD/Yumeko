@@ -4,3 +4,4 @@ dismusic
 wavelink
 reddit
 praw
+prsaw
