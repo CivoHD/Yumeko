@@ -3,11 +3,9 @@ from yumekoActionGif import actionGifs
 from yumekoTalkCommands import talkCommands
 from yumekorate import yumekoRate
 from yumekohelp import helpCommand
-from yumekoReddit import Reddit
 from discord import client, embeds, user
 from yumekopfp import yumekoPfp
 from yumekogifs import yumekoGifs
-from prsaw import RandomStuff
 import discord
 import json
 import random
@@ -19,7 +17,6 @@ bot = commands.Bot(command_prefix='y!')
 bot.remove_command('help')
 
 
-bot.add_cog(Reddit(bot))
 bot.add_cog(yumekoGifs(bot))
 bot.add_cog(yumekoPfp(bot))
 bot.add_cog(helpCommand(bot))
