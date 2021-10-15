@@ -469,4 +469,4 @@ async def update_bank(user,change=0,mode = 'wallet'):
 
 
 
-bot.run("ODg5NjI4MTg2Mjg2MTE2ODc1.YUkA0A.FkAAZvCqFVz6nXrqI2lQpspMz2M")
+bot.run(")
